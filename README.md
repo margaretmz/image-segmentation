@@ -1,4 +1,3 @@
-# image-segmentation
-Image segmentation
+# Image segmentation
 
-Colab of image segmentation models in Keras.
+Colab notebook(s) of image segmentation models in Keras.
